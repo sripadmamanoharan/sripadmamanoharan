@@ -8,36 +8,36 @@
 
 ##  Technical Skills
 
- Programming Languages
+🛠️ Programming Languages
 Python, SQL, R, HTML, CSS, JavaScript (Basic)
 
-Machine Learning & AI
+🤖 Machine Learning & AI
 Scikit-learn, TensorFlow, BERT, Transformers, CNNs, RNNs, LSTMs, Time Series Forecasting, Statistical Modeling, A/B Testing
 
-Generative AI & Agentic AI
+🧬 Generative AI & Agentic AI
 LangChain (Production), AutoGen (Learning), RAG Pipelines
 
-LLMs & Multimodal AI
+💬 LLMs & Multimodal AI
 Gemini, LLaMA (Surveyed), Stable Diffusion, CLIP
 
-Vector Databases
+📦 Vector Databases
 Azure AI Search (Production), FAISS, Hybrid Search, Vector Embeddings
 
-Cloud Platforms
+☁️ Cloud Platforms
 Azure: ML Studio, Data Factory, Databricks, Synapse, Azure AI Search
 GCP: BigQuery, Google Colab
 AWS: Basic (EC2, S3)
 
-Databases
+🗃️ Databases
 MySQL, SQL Server, Azure Synapse SQL, (Learning: MongoDB, CosmosDB)
 
-Development & APIs
+🧑‍💻 Development & APIs
 Flask, Streamlit, FastAPI (Learning), RESTful APIs, Git/GitHub, Jupyter Notebook
 
-Visualization
+📊 Visualization
 Tableau, Power BI, Looker Studio, Matplotlib, Seaborn
 
-Workflow & Tools
+⚙️ Workflow & Tools
 Agile, SDLC, CI/CD (Basic), GitHub Projects, VS Code
 
 ---
