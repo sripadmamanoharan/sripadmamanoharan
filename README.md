@@ -8,12 +8,37 @@
 
 ##  Technical Skills
 
-**Programming:** Python, SQL, R, Excel (Power Query, VBA)  
-**Data Analytics:** EDA, Time Series Forecasting, Predictive Modeling, A/B Testing  
-**Visualization:** Tableau, Power BI, Looker Studio  
-**ETL & Data Engineering:** Azure Data Factory, Databricks, PySpark, Delta Lake  
-**Cloud Platforms:** Microsoft Azure, Google Cloud Platform  
-**Databases:** MySQL, Azure Synapse SQL, SQL Server
+ Programming Languages
+Python, SQL, R, HTML, CSS, JavaScript (Basic)
+
+Machine Learning & AI
+Scikit-learn, TensorFlow, BERT, Transformers, CNNs, RNNs, LSTMs, Time Series Forecasting, Statistical Modeling, A/B Testing
+
+Generative AI & Agentic AI
+LangChain (Production), AutoGen (Learning), RAG Pipelines
+
+LLMs & Multimodal AI
+Gemini, LLaMA (Surveyed), Stable Diffusion, CLIP
+
+Vector Databases
+Azure AI Search (Production), FAISS, Hybrid Search, Vector Embeddings
+
+Cloud Platforms
+Azure: ML Studio, Data Factory, Databricks, Synapse, Azure AI Search
+GCP: BigQuery, Google Colab
+AWS: Basic (EC2, S3)
+
+Databases
+MySQL, SQL Server, Azure Synapse SQL, (Learning: MongoDB, CosmosDB)
+
+Development & APIs
+Flask, Streamlit, FastAPI (Learning), RESTful APIs, Git/GitHub, Jupyter Notebook
+
+Visualization
+Tableau, Power BI, Looker Studio, Matplotlib, Seaborn
+
+Workflow & Tools
+Agile, SDLC, CI/CD (Basic), GitHub Projects, VS Code
 
 ---
 
