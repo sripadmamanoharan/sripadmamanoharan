@@ -1,75 +1,62 @@
-# Hi, I'm Sri Padmavathi Manoharan
+# Hi there, welcome to my GitHub profile! 👋
 
-Master’s Student in Computer & Information Science at **Purdue University** (Graduating **May 2025**)  
-Passionate about **Data Analytics**, **Machine Learning**, and **Building Insightful Dashboards**  
-Actively seeking **full-time opportunities** in **Data Analytics**, **Business Intelligence**, or **Data Science** roles
+I'm **Sri Padmavathi Manoharan**, a passionate Data Analyst and ETL Developer skilled in building robust data pipelines and cloud-based dashboards. I love transforming raw data into powerful insights that support business decisions.
 
 ---
 
-##  Technical Skills
+## GitHub Stats
 
-🛠️ Programming Languages
-Python, SQL, R, HTML, CSS, JavaScript (Basic)
+![Sri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sripadmamanoharan&show_icons=true&theme=calm)
 
-🤖 Machine Learning & AI
-Scikit-learn, TensorFlow, BERT, Transformers, CNNs, RNNs, LSTMs, Time Series Forecasting, Statistical Modeling, A/B Testing
-
-🧬 Generative AI & Agentic AI
-LangChain (Production), AutoGen (Learning), RAG Pipelines
-
-💬 LLMs & Multimodal AI
-Gemini, LLaMA (Surveyed), Stable Diffusion, CLIP
-
-📦 Vector Databases
-Azure AI Search (Production), FAISS, Hybrid Search, Vector Embeddings
-
-☁️ Cloud Platforms
-Azure: ML Studio, Data Factory, Databricks, Synapse, Azure AI Search
-GCP: BigQuery, Google Colab
-AWS: Basic (EC2, S3)
-
-🗃️ Databases
-MySQL, SQL Server, Azure Synapse SQL, (Learning: MongoDB, CosmosDB)
-
-🧑‍💻 Development & APIs
-Flask, Streamlit, FastAPI (Learning), RESTful APIs, Git/GitHub, Jupyter Notebook
-
-📊 Visualization
-Tableau, Power BI, Looker Studio, Matplotlib, Seaborn
-
-⚙️ Workflow & Tools
-Agile, SDLC, CI/CD (Basic), GitHub Projects, VS Code
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sripadmamanoharan&layout=compact&theme=calm)
 
 ---
 
-## Certifications
+## Projects & Contributions
 
--  Microsoft Azure – **Data Scientist Associate**, **AI Engineer**  
-- Google Data Analytics – **Foundations Certificate**
+### 🔹 AI-Powered Sales KPI Dashboard  
+- Built using **LangChain + Gemini**, designed role-based insights for CXOs and Managers.  
+- Integrated with **Streamlit UI** and dynamic charts using Pandas, NumPy, and Agentic AI.
 
----
+### 🔹 NYC Transportation Safety Analysis  
+- Performed **Geospatial Analysis**, **Time Series Forecasting**, and **ML Classification** on accident data.  
+- Achieved 99.45% accuracy in accident severity prediction using Python & Power BI.
 
-##  Featured Projects
+### 🔹 Olympic Data ETL on Azure  
+- Designed an **end-to-end Azure Data Pipeline** with ADF, Databricks, Synapse, and Data Lake.  
+- Visualized KPIs in **Tableau** and automated data refresh using Azure tools.
 
-###  **NYC Motor Vehicle Collisions Analysis**
-- Analyzed 4M+ collision records using **Python**, ML, and **geospatial mapping**
-- Built **Power BI dashboards** for real-time insights and decision-making
-- **Certified by Columbia TDSP** for demonstrating a full data science workflow
-
-###  **Olympic Data Analytics Pipeline**
-- Built an **ETL pipeline** using Azure Data Factory + PySpark  
-- Created **Tableau dashboards** for medal trends and gender-based insights  
-- Designed a **star schema** in Synapse for querying 100+ tables efficiently
-
-###  **Agentic AI Sales Insights** *(Infosys Tech Pioneer Project)*
-- Used **LangChain + LLMs** to generate AI-powered business insights  
-- Automated dashboard creation in **Tableau** for forecasting and executive reporting
+### 🔹 User Behavior Analytics Platform  
+- Created segmentation models with **K-Means Clustering**.  
+- Built interactive dashboards using **SQL + Tableau**.
 
 ---
 
-## Let's Connect
+##  My Tech Stack
 
-📧 Email: **sripadmavathime.ms@gmail.com**  
-🌐 LinkedIn: https://www.linkedin.com/in/sripadma22/ 
-🔍 *“Turning raw data into real insights – one project at a time.”*
+**Languages:**  
+`Python` `SQL` `HTML/CSS`
 
+**Analytics & Visualization:**  
+`Power BI` `Tableau` `Matplotlib` `Seaborn`  
+
+**Cloud & ETL Tools:**  
+`Azure Data Factory` `Azure Synapse` `Azure Data Lake` `Databricks` `Google Colab`
+
+**Other Tools:**  
+`Flask` `LangChain` `GitHub` `Streamlit`
+
+**Concepts:**  
+`ETL Pipelines` `Dashboarding` `Machine Learning` `Time Series Forecasting` `Geospatial Analysis` `NLP`
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/sripadma22)  
+- 🖥️ [GitHub](https://github.com/sripadmamanoharan)  
+- 📧 sripadmavathime.ms@gmail.com
+
+---
+
+Thanks for visiting my GitHub! I’m currently open to data-related opportunities where I can grow and contribute 🚀
