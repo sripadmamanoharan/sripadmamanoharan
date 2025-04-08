@@ -1,8 +1,8 @@
 # Hi, I'm Sri Padmavathi Manoharan
 
-🎓 Master’s Student in Computer & Information Science at **Purdue University** (Graduating **May 2025**)  
-🔍 Passionate about **Data Analytics**, **Machine Learning**, and **Building Insightful Dashboards**  
-💼 Actively seeking **full-time opportunities** in **Data Analytics**, **Business Intelligence**, or **Data Science** roles
+Master’s Student in Computer & Information Science at **Purdue University** (Graduating **May 2025**)  
+Passionate about **Data Analytics**, **Machine Learning**, and **Building Insightful Dashboards**  
+Actively seeking **full-time opportunities** in **Data Analytics**, **Business Intelligence**, or **Data Science** roles
 
 ---
 
