@@ -1,7 +1,7 @@
 # Hi, I'm Sri Padmavathi Manoharan
 
 📍 Indianapolis, IN • 📧 sripadmavathime.ms@gmail.com 
-🔗 [LinkedIn](https://linkedin.com/in/sripadma22) • 🌐 [Portfolio Website](https://sripadmamanoharan.github.io/PortFolio_Sri/)
+🔗 [LinkedIn](https://linkedin.com/in/sripadma22) 
 
 ---
 
@@ -76,8 +76,7 @@ I'm a passionate **Data Analyst** with hands-on experience in designing robust d
 ## 📬 Let's Connect
 
 I'm currently looking for full-time **Data Analyst** or **ETL Developer** roles.  
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sripadma22) or check out my [Portfolio Website](https://sripadmamanoharan.github.io/PortFolio_Sri/).
-
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sripadma22) 
 ---
 
 _“I turn complex data into meaningful stories that drive decisions.”_
