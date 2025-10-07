@@ -1,97 +1,101 @@
-# Hi, I'm Sri Padmavathi Manoharan
+# 👋 Hi, I'm Sri Padmavathi Manoharan
 
-📍 Indianapolis, IN • 📧 sripadmavathime.ms@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sripadma22) | [GitHub](https://github.com/sripadmamanoharan)
-
----
-
-## 👩‍💻 About Me
-
-I’m a **Data Analyst** with experience in **data engineering**, **machine learning**, and **cloud technologies**. I have hands-on expertise in building **ETL pipelines**, transforming raw data into actionable insights, and creating **interactive dashboards**. I am currently working as a **Data Analyst** at **Kumon**, where I focus on optimizing data processes, improving decision-making, and automating reporting workflows.
-
-I have **completed my Master's in Computer and Information Science** from **Purdue University**, Indianapolis, with a focus on **Data Science**, **NLP**, **Cloud Computing**, and **Big Data Analytics**.
+📍 Indianapolis, IN · 📧 sripadmavathime.ms@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/sripadma22) · [GitHub](https://github.com/sripadmamanoharan) · 
 
 ---
 
-## 💼 Open to Work
+## 💡 About Me
 
-I’m actively seeking opportunities in the following roles:
-- **Data Analyst**
-- **Generative AI Engineer**
-- **AI Developer**
-- **Data Scientist**
-- **Machine Learning Engineer**
+I’m a **Data Engineer** with 10+ years of experience in **data analytics, machine learning, and AI-driven solutions**.  
+I build scalable **ETL pipelines**, design **data models**, and create **LLM-based applications** that drive real business impact.
 
-Feel free to reach out if you are looking for someone passionate about data, AI, and ML!
+I have delivered measurable results—improving retention by **15%**, reducing reporting time by **30%**, and deploying **ML models with 90%+ accuracy**.  
+I’m passionate about transforming complex data into clear insights and building intelligent, automated data systems.
+
+---
+
+## 🚀 Open to Work
+
+**Data Engineer | Data Analyst | AI Engineer | ML Engineer | Generative AI Developer**
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, R, SQL  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Streamlit  
+**Machine Learning:** scikit-learn, TensorFlow, PyTorch, Keras, OpenCV  
+**AI & NLP:** LangChain, FastAPI, Transformers, LLMs, Retrieval-Augmented Generation (RAG)  
+**ETL & Big Data:** Azure Data Factory, Azure Data Lake, Databricks (PySpark), Synapse, Snowflake, BigQuery  
+**Cloud & DevOps:** Azure, AWS, Docker, CI/CD, Git, Kubernetes (Basic)  
+**Core Concepts:** Data Modeling, Feature Engineering, Statistical Modeling, Forecasting, Clustering, Anomaly Detection, Hypothesis Testing  
+**Methodologies:** Agile Development, Data Validation, Version Control, REST API Integration  
 
 ---
 
 ## 🎓 Education
 
 **Purdue University, Indianapolis, IN**  
-*Master of Science in Computer and Information Science*  
-📅 Completed in 2025 | GPA: 3.67/4.00  
-**Relevant Courses**: Data Science, Machine Learning, Natural Language Processing, Computer Vision, Big Data Analytics, Cloud Computing
+*M.S. in Computer and Information Science (2025)* | GPA: 3.67/4.00  
+**Focus Areas:** Data Science, Machine Learning, NLP, Big Data Analytics, Cloud Computing
 
 ---
 
-## 🛠️ Skills & Certifications
+## 🧠 Certifications
 
-**Languages**: Python, R, SQL  
-**ML & AI Frameworks**: scikit-learn, TensorFlow, PyTorch, Keras, Transformers, LSTM, ARIMA, Prophet  
-**GenAI & NLP**: LangChain, LLMs, RAG, LangGraph, HuggingFace, FastAPI  
-**Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Streamlit  
-**Databases & Cloud Platforms**: MySQL, BigQuery, Google Firebase, Azure (Data Factory, Data Lake, Synapse), AWS  
-**ETL & Data Pipelines**: Azure Data Factory, Azure Data Lake, Databricks (PySpark), Synapse Analytics  
-**Deployment & DevOps**: Docker, Git, CI/CD, Kubernetes, Terraform, Ansible  
-**Core ML Skills**: Supervised & Unsupervised Learning, Time Series Forecasting, Clustering, Anomaly Detection, Collaborative Filtering, Ensemble Models, Statistical Modeling, Hypothesis Testing  
-**Methodologies**: Agile Development, Data Cleaning, Data Transformation, Feature Engineering  
-
-**Certifications**:  
-- Microsoft Certified: Azure AI Engineer Associate  
-- Microsoft Certified: Azure Data Scientist Associate  
-- Databricks Academy Accreditation – Generative AI Fundamentals  
-- Google Data Analytics Professional  
-- Python Foundation Certificate | Infosys Springboard
+- Microsoft Certified: **Azure AI Engineer Associate**  
+- Microsoft Certified: **Azure Data Scientist Associate**  
+- Databricks **Generative AI Fundamentals (Accreditation)**  
+- **Google Data Analytics Professional Certificate**  
+- **Python Foundation Certificate** – Infosys Springboard  
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-**Data Analyst** | Kumon North America, Inc – Indiana, USA  
+### 🧩 Data Engineer | Kumon North America, Inc. – Indiana, USA  
 📅 Sept 2022 – Present  
-- Designed **ETL pipelines** using **Azure Data Factory** and **Data Lake** to automate data ingestion and transformation.  
-- **Transformed large datasets** using **Python (Pandas)** and **SQL**, ensuring high accuracy in analytics workflows.  
-- Developed and maintained **automated dashboards** with **Power BI** and **Tableau**, reducing manual reporting time by **30%**.  
-- Established and monitored **KPIs** to improve student retention by **15%**.  
-- Collaborated with leadership to communicate insights and guide decision-making.
+- Analyzed large datasets to identify key trends in student performance and operational efficiency.  
+- Built and automated **ETL pipelines** using **Azure Data Factory**, **Data Lake**, and **Databricks (PySpark)**.  
+- Designed **Power BI** and **Tableau dashboards**, reducing manual reporting by **30%**.  
+- Defined and tracked **KPIs**, leading to a **15% improvement** in student retention.  
+- Partnered with directors to present insights that supported strategic and data-driven decisions.  
+
+### 💻 Data System Analyst | 2T Consulting – Bangalore, India  
+📅 Mar 2014 – Aug 2022  
+- Analyzed **patient health and clinical datasets** to uncover trends and support predictive healthcare initiatives.  
+- Built and validated **ML models** (Logistic Regression, Random Forest, DNN) to predict hospital readmissions.  
+- Used **Python**, **PySpark**, and **scikit-learn** for feature engineering and large-scale data cleaning.  
+- Delivered insights with **Tableau** and **Matplotlib**, improving early intervention accuracy by **20%**.
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 ### 📊 [AI-Powered Sales KPI Dashboard](https://github.com/sripadmamanoharan/INFY_Apple_Sales_Data2024)
-- Built role-based KPI dashboards with **Streamlit**, **LangChain**, and **LLMs**  
-- Enabled custom natural language queries using **Gemini** & **Python**
+- Built role-based KPI dashboards using **Streamlit**, **LangChain**, and **Gemini LLM**  
+- Enabled natural language insights and dynamic metric updates  
 
 ### 🚦 [NYC Motor Vehicle Collisions Analysis](https://github.com/sripadmamanoharan/NYC_Motor_Vehicle_Collisions_Analysis)
-- Built a **Random Forest model** to predict accident severity with **99.45% accuracy**  
-- Created interactive **Tableau dashboards** using 8 years of accident data
+- Created **Random Forest model** (99.45% accuracy) to predict accident severity  
+- Designed **Tableau dashboards** with geospatial risk visualization  
 
-### 🔁 [Customer Churn Prediction](https://github.com/sripadmamanoharan/Bank-Customer-Churn-Prediction-/tree/main)
-- Built a **logistic regression model** (ROC-AUC: 74%) and churn insights dashboard in Power BI
+### 🔁 [Customer Churn Prediction (Banking)](https://github.com/sripadmamanoharan/Bank-Customer-Churn-Prediction-/tree/main)
+- Built **logistic regression** model (ROC-AUC 0.74) with churn analytics dashboard in Power BI  
 
 ### 🏅 [Olympic Data ETL Pipeline](https://github.com/sripadmamanoharan/Olympic-Data-Analytics-Pipeline-)
-- Used **Azure Data Factory**, **Synapse**, **PySpark** to build end-to-end pipeline & Tableau dashboards
+- Developed an end-to-end **Azure ETL pipeline** with **ADF**, **PySpark**, and **Synapse**  
+- Visualized results using **Tableau** for better insights  
 
 ### 🌍 [Global Debt Analytics & Visualization](https://github.com/sripadmamanoharan/Global-Debt-Analytics-Visualization-/tree/main)
-- Analyzed 20+ years of world debt and **visualized insights in Tableau**  
-- Proposed data-driven policy solutions to reduce national debt risks
+- Analyzed 20+ years of world debt data  
+- Designed **Tableau visuals** to highlight debt-to-GDP patterns and policy recommendations  
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Let's Connect
 
-Feel free to reach out if you'd like to discuss any projects or opportunities.  
-🔗 [LinkedIn](https://www.linkedin.com/in/sripadma22) | [GitHub](https://github.com/sripadmamanoharan)
+📧 **Email:** sripadmavathime.ms@gmail.com  
+ 
 
