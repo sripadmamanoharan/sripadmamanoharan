@@ -34,12 +34,6 @@ I’m passionate about transforming complex data into clear insights and buildin
 
 ---
 
-## 🎓 Education
-
-**Purdue University, Indianapolis, IN**  
-*M.S. in Computer and Information Science (2025)* | GPA: 3.67/4.00  
-**Focus Areas:** Data Science, Machine Learning, NLP, Big Data Analytics, Cloud Computing
-
 ---
 
 ## 🧠 Certifications
