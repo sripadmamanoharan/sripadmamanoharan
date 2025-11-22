@@ -1,95 +1,76 @@
-# 👋 Hi, I'm Sri Padmavathi Manoharan
+#  **Sri Padmavathi Manoharan**
 
-📍 Indianapolis, IN · 📧 sripadmavathime.ms@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sripadma22) · [GitHub](https://github.com/sripadmamanoharan) · 
+### **Senior Azure Data Engineer | Databricks | PySpark | Delta Lake | ADF | Cloud Data Architect**
 
----
-
-## 💡 About Me
-
-I’m a **Data Engineer** with 10+ years of experience in **data analytics, machine learning, and AI-driven solutions**.  
-I build scalable **ETL pipelines**, design **data models**, and create **LLM-based applications** that drive real business impact.
-
-I have delivered measurable results—improving retention by **15%**, reducing reporting time by **30%**, and deploying **ML models with 90%+ accuracy**.  
-I’m passionate about transforming complex data into clear insights and building intelligent, automated data systems.
+📍 Indianapolis, IN
+📧 **[padmaags91@gmail.com](mailto:padmaags91@gmail.com)**
+🔗 **LinkedIn:** in/sripadma22
 
 ---
 
-## 🚀 Open to Work
+## **About Me**
 
-**Data Engineer | Data Analyst | AI Engineer | ML Engineer | Generative AI Developer**
+I am a **Data Engineer with 10+ years of experience** building large-scale **Lakehouse platforms**, distributed ETL/ELT pipelines, and secure enterprise data systems.
 
----
+I specialize in:
 
-## 🛠️ Technical Skills
+* **Azure Databricks** (PySpark, Delta Lake, Unity Catalog)
+* **ADLS Gen2, ADF, Azure SQL, Synapse**
+* **Metadata-driven ETL frameworks**
+* **Real-time + batch ingestion**
+* **Medallion architecture (Bronze–Silver–Gold)**
+* **API ingestion, CDC (Delta MERGE), performance tuning**
+* **Azure DevOps CI/CD & automated deployments**
 
-**Languages:** Python, R, SQL  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Streamlit  
-**Machine Learning:** scikit-learn, TensorFlow, PyTorch, Keras, OpenCV  
-**AI & NLP:** LangChain, FastAPI, Transformers, LLMs, Retrieval-Augmented Generation (RAG)  
-**ETL & Big Data:** Azure Data Factory, Azure Data Lake, Databricks (PySpark), Synapse, Snowflake, BigQuery  
-**Cloud & DevOps:** Azure, AWS, Docker, CI/CD, Git, Kubernetes (Basic)  
-**Core Concepts:** Data Modeling, Feature Engineering, Statistical Modeling, Forecasting, Clustering, Anomaly Detection, Hypothesis Testing  
-**Methodologies:** Agile Development, Data Validation, Version Control, REST API Integration  
-
----
+I deliver end-to-end cloud data platforms for healthcare and enterprise analytics, enabling BI dashboards, predictive models, and secure governed data products.
 
 ---
 
-## 🧠 Certifications
+## 💼 **Professional Experience**
 
-- Microsoft Certified: **Azure AI Engineer Associate**  
-- Microsoft Certified: **Azure Data Scientist Associate**  
-- Databricks **Generative AI Fundamentals (Accreditation)**  
-- **Google Data Analytics Professional Certificate**  
-- **Python Foundation Certificate** – Infosys Springboard  
+### **Senior Data Engineer – Blue Cross Blue Shield Association (USA)**
 
----
+**2022 – Present**
 
-## 💼 Professional Experience
-
-### 🧩 Data Engineer | Kumon North America, Inc. – Indiana, USA  
-📅 Sept 2022 – Present  
-- Analyzed large datasets to identify key trends in student performance and operational efficiency.  
-- Built and automated **ETL pipelines** using **Azure Data Factory**, **Data Lake**, and **Databricks (PySpark)**.  
-- Designed **Power BI** and **Tableau dashboards**, reducing manual reporting by **30%**.  
-- Defined and tracked **KPIs**, leading to a **15% improvement** in student retention.  
-- Partnered with directors to present insights that supported strategic and data-driven decisions.  
-
-### 💻 Data System Analyst | 2T Consulting – Bangalore, India  
-📅 Mar 2014 – Aug 2022  
-- Analyzed **patient health and clinical datasets** to uncover trends and support predictive healthcare initiatives.  
-- Built and validated **ML models** (Logistic Regression, Random Forest, DNN) to predict hospital readmissions.  
-- Used **Python**, **PySpark**, and **scikit-learn** for feature engineering and large-scale data cleaning.  
-- Delivered insights with **Tableau** and **Matplotlib**, improving early intervention accuracy by **20%**.
+* Designed and built an **Azure Lakehouse** using ADLS, Databricks, Delta Lake, and Azure SQL.
+* Developed **metadata-driven ETL frameworks** with reusable, parameterized components.
+* Implemented **Unity Catalog**, RBAC, lineage, masking, and Azure AD security.
+* Tuned PySpark using **partitioning, Z-Ordering, broadcast joins, AQE**.
+* Managed **Bronze → Silver → Gold** Delta Lake architecture.
+* Built ingestion for **APIs, Cosmos DB, ERP, SQL systems**.
+* Implemented secure Azure networking with **Private Endpoints, Key Vault, Managed Identities**.
+* Automated deployments using **Azure DevOps CI/CD**.
 
 ---
 
-## 🌟 Featured Projects
+### **Senior Data Analyst – Arrays Global Services (India)**
 
-### 📊 [AI-Powered Sales KPI Dashboard](https://github.com/sripadmamanoharan/INFY_Apple_Sales_Data2024)
-- Built role-based KPI dashboards using **Streamlit**, **LangChain**, and **Gemini LLM**  
-- Enabled natural language insights and dynamic metric updates  
+**2020 – 2022**
+Built SQL/Python pipelines, KPI dashboards, automated reporting, and led churn analytics.
 
-### 🚦 [NYC Motor Vehicle Collisions Analysis](https://github.com/sripadmamanoharan/NYC_Motor_Vehicle_Collisions_Analysis)
-- Created **Random Forest model** (99.45% accuracy) to predict accident severity  
-- Designed **Tableau dashboards** with geospatial risk visualization  
+### **Data Analyst – Green Hills Technologies (India)**
 
-### 🔁 [Customer Churn Prediction (Banking)](https://github.com/sripadmamanoharan/Bank-Customer-Churn-Prediction-/tree/main)
-- Built **logistic regression** model (ROC-AUC 0.74) with churn analytics dashboard in Power BI  
+**2016 – 2019**
+Developed Azure-based pipelines, healthcare dashboards, ingestion scripts, and EDA.
 
-### 🏅 [Olympic Data ETL Pipeline](https://github.com/sripadmamanoharan/Olympic-Data-Analytics-Pipeline-)
-- Developed an end-to-end **Azure ETL pipeline** with **ADF**, **PySpark**, and **Synapse**  
-- Visualized results using **Tableau** for better insights  
+### **Quality Analyst – Green Hills Technologies (India)**
 
-### 🌍 [Global Debt Analytics & Visualization](https://github.com/sripadmamanoharan/Global-Debt-Analytics-Visualization-/tree/main)
-- Analyzed 20+ years of world debt data  
-- Designed **Tableau visuals** to highlight debt-to-GDP patterns and policy recommendations  
+**2015 – 2016**
+Performed ETL functional testing, data validation, and defect analysis.
+
+### **Engineering Intern – Codebind Technologies**
+
+**2014 – 2015**
+Embedded systems development using MATLAB, microcontrollers, and sensor testing.
 
 ---
 
-## 🤝 Let's Connect
+## 📚 **Certifications**
 
-📧 **Email:** sripadmavathime.ms@gmail.com  
- 
+* **Databricks Certified Data Engineer Associate**
+* **Microsoft Certified: Azure AI Engineer Associate**
+* **Microsoft Certified: Azure Data Scientist Associate**
+* **Microsoft Azure Fundamentals • Data Fundamentals • AI Fundamentals**
+* **Google Data Analytics Certification**
+* **Cisco CCNA**
 
