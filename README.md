@@ -1,6 +1,6 @@
 #  **Sri Padmavathi Manoharan**
 
-### **Senior Azure Data Engineer | Databricks | PySpark | Delta Lake | ADF | Cloud Data Architect**
+### ** Data Engineer | Databricks | PySpark | Delta Lake | ADF | Cloud Data Architect**
 
 📍 Indianapolis, IN
 📧 **[padmaags91@gmail.com](mailto:padmaags91@gmail.com)**
